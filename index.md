@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Hello everyone, there is are [dotfiles](https://github.com/ErrorTeaPot/.dotfiles)
+Hello everyone, here are my [dotfiles](https://github.com/ErrorTeaPot/.dotfiles)
